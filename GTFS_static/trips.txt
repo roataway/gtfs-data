@@ -1,0 +1,31 @@
+route_id,service_id,trip_id,trip_short_name,shape_id,direction_id
+30,FULLW,30,Aeroport - Piața Marii Adunări Naționale,30,0
+32,FULLW,32,str. 31 August 1989 - com. Stăuceni,32,0
+37,FULLW,37,Gara Feroviară - Bubuieci,37,0
+36,FULLW,36,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,36,0
+35,FULLW,35,Durlești - str. V. Alecsandri,35,0
+34,FULLW,34,str. Ciuflea - com. Trușeni,34,0
+31,FULLW,31,str. 31 August 1989 - or. Sângera,31,0
+29,FULLW,29,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',29,0
+27,FULLW,27,str. Ceucari - str. Ion Creangă,27,0
+26,FULLW,26,str. Ceucari - str. Mircea cel Bătrân,26,0
+25,FULLW,25,str. Ceucari - str. 31 august 1989,25,0
+24,FULLW,24,str. Mircea cel Bătrân - str. Miorița,24,0
+23,FULLW,23,str. Mircea cel Bătrân - Parcul 'La Izvor',23,0
+22,FULLW,22,str. Alba-Iulia - bd. Dacia,22,0
+21,FULLW,21,str. Meșterul Manole - str. Alba-Iulia,21,0
+20,FULLW,20,Parcul de troilebuze nr.2 - str. V. Dokuceaev,20,0
+17,FULLW,17,Gara Auto Sud-Vest - Gara Feroviară,17,0
+13,FULLW,13,bd. Mircea cel Bătrân - str. V. Dokuceaev,13,0
+12,FULLW,12,bd. Mircea cel Bătrân - str. A. Mateevici,12,0
+11,FULLW,11,bd. Moscova - Parcul 'La Izvor',11,0
+10,FULLW,10,bd. Moscova - str. Miorița,10,0
+9,FULLW,9,Gara Auto Sud-Vest - Gara Auto Nord,9,0
+8,FULLW,8,bd. Traian - Parcul 'La Izvor',8,0
+7,FULLW,7,str. Uzinelor - str. 31 August 1989,7,0
+5,FULLW,5,Parcul de troleibuze nr.2 - str. Bariera Sculeni,5,0
+4,FULLW,4,bd. Dacia - str. Constituției,4,0
+3,FULLW,3,str. Alba-Iulia - str. Miorița,3,0
+2,FULLW,2,bd. Traian - str. A. Pușkin,2,0
+1,FULLW,1,or. Durlești - str. Sarmizegetusa,1,0
+16,FULLW,16,str. Uzinelor - str. 31 August 1989,16,0

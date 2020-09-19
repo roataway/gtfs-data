@@ -1,0 +1,31 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+30,RTEC,30,Aeroport - Piața Marii Adunări Naționale,3
+32,RTEC,32,str. 31 August 1989 - com. Stăuceni,3
+37,RTEC,37,Gara Feroviară - Bubuieci,3
+36,RTEC,36,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,3
+35,RTEC,35,Durlești - str. V. Alecsandri,3
+34,RTEC,34,str. Ciuflea - com. Trușeni,3
+31,RTEC,31,str. 31 August 1989 - or. Sângera,3
+29,RTEC,29,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',3
+27,RTEC,27,str. Ceucari - str. Ion Creangă,3
+26,RTEC,26,str. Ceucari - str. Mircea cel Bătrân,3
+25,RTEC,25,str. Ceucari - str. 31 august 1989,3
+24,RTEC,24,str. Mircea cel Bătrân - str. Miorița,3
+23,RTEC,23,str. Mircea cel Bătrân - Parcul 'La Izvor',3
+22,RTEC,22,str. Alba-Iulia - bd. Dacia,3
+21,RTEC,21,str. Meșterul Manole - str. Alba-Iulia,3
+20,RTEC,20,Parcul de troilebuze nr.2 - str. V. Dokuceaev,3
+17,RTEC,17,Gara Auto Sud-Vest - Gara Feroviară,3
+13,RTEC,13,bd. Mircea cel Bătrân - str. V. Dokuceaev,3
+12,RTEC,12,bd. Mircea cel Bătrân - str. A. Mateevici,3
+11,RTEC,11,bd. Moscova - Parcul 'La Izvor',3
+10,RTEC,10,bd. Moscova - str. Miorița,3
+9,RTEC,9,Gara Auto Sud-Vest - Gara Auto Nord,3
+8,RTEC,8,bd. Traian - Parcul 'La Izvor',3
+7,RTEC,7,str. Uzinelor - str. 31 August 1989,3
+5,RTEC,5,Parcul de troleibuze nr.2 - str. Bariera Sculeni,3
+4,RTEC,4,bd. Dacia - str. Constituției,3
+3,RTEC,3,str. Alba-Iulia - str. Miorița,3
+2,RTEC,2,bd. Traian - str. A. Pușkin,3
+1,RTEC,1,or. Durlești - str. Sarmizegetusa,3
+16,RTEC,16,str. Uzinelor - str. 31 August 1989,3
