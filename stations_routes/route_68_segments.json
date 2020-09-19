@@ -1,0 +1,1343 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 24807847,
+                "tags": {
+                    "highway": "tertiary",
+                    "lanes": "2",
+                    "name": "Strada Maria Dr\u0103gan",
+                    "name:ro": "Strada Maria Dr\u0103gan",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0440\u0438\u0438 \u0414\u0440\u044d\u0433\u0430\u043d"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8841003,
+                        47.031304
+                    ],
+                    [
+                        28.8840872,
+                        47.0311069
+                    ],
+                    [
+                        28.8840548,
+                        47.0307301
+                    ],
+                    [
+                        28.8840103,
+                        47.0303047
+                    ],
+                    [
+                        28.8839653,
+                        47.029874
+                    ],
+                    [
+                        28.8839482,
+                        47.0297103
+                    ],
+                    [
+                        28.883862,
+                        47.0288855
+                    ],
+                    [
+                        28.8838342,
+                        47.0286304
+                    ],
+                    [
+                        28.8837586,
+                        47.0279164
+                    ],
+                    [
+                        28.8837483,
+                        47.0278415
+                    ],
+                    [
+                        28.8835832,
+                        47.0263262
+                    ],
+                    [
+                        28.8835039,
+                        47.0255737
+                    ],
+                    [
+                        28.8832514,
+                        47.0233098
+                    ],
+                    [
+                        28.8831234,
+                        47.0221503
+                    ],
+                    [
+                        28.883097,
+                        47.0219114
+                    ],
+                    [
+                        28.8830535,
+                        47.0215261
+                    ],
+                    [
+                        28.882874,
+                        47.0199384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 27835723,
+                "tags": {
+                    "highway": "service",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.885946,
+                        47.0056797
+                    ],
+                    [
+                        28.8860403,
+                        47.0052711
+                    ],
+                    [
+                        28.8869941,
+                        47.0046338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 32475898,
+                "tags": {
+                    "highway": "primary_link",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8879628,
+                        47.0117513
+                    ],
+                    [
+                        28.8874864,
+                        47.012186
+                    ],
+                    [
+                        28.8874205,
+                        47.0122472
+                    ],
+                    [
+                        28.8873827,
+                        47.0122982
+                    ],
+                    [
+                        28.8873503,
+                        47.0123712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 36704864,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8982001,
+                        46.9980144
+                    ],
+                    [
+                        28.8980554,
+                        46.997896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 36704867,
+                "tags": {
+                    "highway": "primary_link",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8980554,
+                        46.997896
+                    ],
+                    [
+                        28.897936,
+                        46.9978529
+                    ],
+                    [
+                        28.8978892,
+                        46.997842
+                    ],
+                    [
+                        28.8978306,
+                        46.9978326
+                    ],
+                    [
+                        28.8977465,
+                        46.9978348
+                    ],
+                    [
+                        28.8976486,
+                        46.9978413
+                    ],
+                    [
+                        28.8975188,
+                        46.997858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868153,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "strada Uzinelor",
+                    "name:ro": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8972247,
+                        46.9979397
+                    ],
+                    [
+                        28.8970305,
+                        46.998047
+                    ],
+                    [
+                        28.8963704,
+                        46.998457
+                    ],
+                    [
+                        28.895477,
+                        46.9990286
+                    ],
+                    [
+                        28.8944629,
+                        46.9996773
+                    ],
+                    [
+                        28.894153,
+                        46.9998787
+                    ],
+                    [
+                        28.8938856,
+                        47.0000517
+                    ],
+                    [
+                        28.8932523,
+                        47.0004651
+                    ],
+                    [
+                        28.8928403,
+                        47.0007381
+                    ],
+                    [
+                        28.892355,
+                        47.0010611
+                    ],
+                    [
+                        28.891108,
+                        47.0018813
+                    ],
+                    [
+                        28.8903547,
+                        47.0023776
+                    ],
+                    [
+                        28.8898326,
+                        47.0027269
+                    ],
+                    [
+                        28.8892966,
+                        47.0031189
+                    ],
+                    [
+                        28.8875769,
+                        47.0046295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868154,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ro": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8873782,
+                        47.0126461
+                    ],
+                    [
+                        28.887701,
+                        47.0157202
+                    ],
+                    [
+                        28.887936,
+                        47.0179583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868156,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8982001,
+                        46.9980144
+                    ],
+                    [
+                        28.8982146,
+                        46.9980343
+                    ],
+                    [
+                        28.8984646,
+                        46.9983474
+                    ],
+                    [
+                        28.8987055,
+                        46.9986596
+                    ],
+                    [
+                        28.8987844,
+                        46.9987623
+                    ],
+                    [
+                        28.8987829,
+                        46.9988694
+                    ],
+                    [
+                        28.8987697,
+                        46.9989336
+                    ],
+                    [
+                        28.8987102,
+                        46.9990674
+                    ],
+                    [
+                        28.8986316,
+                        46.9991686
+                    ],
+                    [
+                        28.8976458,
+                        47.0002232
+                    ],
+                    [
+                        28.8966238,
+                        47.0013456
+                    ],
+                    [
+                        28.8965257,
+                        47.00145
+                    ],
+                    [
+                        28.8962077,
+                        47.001796
+                    ],
+                    [
+                        28.8960103,
+                        47.0020039
+                    ],
+                    [
+                        28.8955742,
+                        47.0024738
+                    ],
+                    [
+                        28.8954377,
+                        47.0026443
+                    ],
+                    [
+                        28.8953526,
+                        47.0027778
+                    ],
+                    [
+                        28.8953016,
+                        47.0028885
+                    ],
+                    [
+                        28.8952552,
+                        47.0029957
+                    ],
+                    [
+                        28.895121,
+                        47.0033289
+                    ],
+                    [
+                        28.8950561,
+                        47.0034957
+                    ],
+                    [
+                        28.8948401,
+                        47.0040304
+                    ],
+                    [
+                        28.8943179,
+                        47.005367
+                    ],
+                    [
+                        28.8942635,
+                        47.0055268
+                    ],
+                    [
+                        28.8941184,
+                        47.0059437
+                    ],
+                    [
+                        28.8939403,
+                        47.0063446
+                    ],
+                    [
+                        28.893839,
+                        47.0065325
+                    ],
+                    [
+                        28.8936034,
+                        47.0068396
+                    ],
+                    [
+                        28.8933841,
+                        47.0070576
+                    ],
+                    [
+                        28.8931785,
+                        47.0072403
+                    ],
+                    [
+                        28.8929009,
+                        47.0074863
+                    ],
+                    [
+                        28.8925434,
+                        47.0077966
+                    ],
+                    [
+                        28.8922868,
+                        47.0080251
+                    ],
+                    [
+                        28.8919844,
+                        47.008278
+                    ],
+                    [
+                        28.8915779,
+                        47.0086291
+                    ],
+                    [
+                        28.8908211,
+                        47.0092827
+                    ],
+                    [
+                        28.8907508,
+                        47.0093403
+                    ],
+                    [
+                        28.8907254,
+                        47.0093653
+                    ],
+                    [
+                        28.8901607,
+                        47.009853
+                    ],
+                    [
+                        28.8897402,
+                        47.0102162
+                    ],
+                    [
+                        28.888847,
+                        47.0109876
+                    ],
+                    [
+                        28.8882215,
+                        47.0115249
+                    ],
+                    [
+                        28.8881952,
+                        47.0115506
+                    ],
+                    [
+                        28.8880473,
+                        47.0116783
+                    ],
+                    [
+                        28.8879628,
+                        47.0117513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868166,
+                "tags": {
+                    "highway": "primary",
+                    "junction": "roundabout",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8978398,
+                        46.9976113
+                    ],
+                    [
+                        28.8978599,
+                        46.9975962
+                    ],
+                    [
+                        28.8978843,
+                        46.9975844
+                    ],
+                    [
+                        28.8979119,
+                        46.9975765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868168,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8981523,
+                        46.9978657
+                    ],
+                    [
+                        28.8982001,
+                        46.9980144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868169,
+                "tags": {
+                    "highway": "primary_link",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8872416,
+                        47.0117837
+                    ],
+                    [
+                        28.8873765,
+                        47.0117918
+                    ],
+                    [
+                        28.8875114,
+                        47.0118054
+                    ],
+                    [
+                        28.8876438,
+                        47.0118124
+                    ],
+                    [
+                        28.8877403,
+                        47.0118104
+                    ],
+                    [
+                        28.8878422,
+                        47.0117956
+                    ],
+                    [
+                        28.8879628,
+                        47.0117513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868170,
+                "tags": {
+                    "highway": "primary_link"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.887936,
+                        47.0179583
+                    ],
+                    [
+                        28.8871413,
+                        47.0180351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 52299540,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8972247,
+                        46.9979397
+                    ],
+                    [
+                        28.8978398,
+                        46.9976113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 52299543,
+                "tags": {
+                    "highway": "tertiary",
+                    "lanes": "2",
+                    "name": "Strada Maria Dr\u0103gan",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0440\u0438\u0438 \u0414\u0440\u044d\u0433\u0430\u043d"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.882874,
+                        47.0199384
+                    ],
+                    [
+                        28.8826972,
+                        47.0182467
+                    ],
+                    [
+                        28.8825151,
+                        47.0167383
+                    ],
+                    [
+                        28.8824106,
+                        47.0156514
+                    ],
+                    [
+                        28.882389,
+                        47.0153116
+                    ],
+                    [
+                        28.8824075,
+                        47.0151818
+                    ],
+                    [
+                        28.8824627,
+                        47.0150695
+                    ],
+                    [
+                        28.883121,
+                        47.0140223
+                    ],
+                    [
+                        28.8840717,
+                        47.0125762
+                    ],
+                    [
+                        28.8841455,
+                        47.0124711
+                    ],
+                    [
+                        28.8842317,
+                        47.0123703
+                    ],
+                    [
+                        28.884328,
+                        47.0122813
+                    ],
+                    [
+                        28.8844219,
+                        47.0122112
+                    ],
+                    [
+                        28.8845274,
+                        47.0121383
+                    ],
+                    [
+                        28.8846422,
+                        47.012078
+                    ],
+                    [
+                        28.8848101,
+                        47.0120062
+                    ],
+                    [
+                        28.8849825,
+                        47.0119448
+                    ],
+                    [
+                        28.8851888,
+                        47.011896
+                    ],
+                    [
+                        28.8853417,
+                        47.011871
+                    ],
+                    [
+                        28.8854947,
+                        47.0118556
+                    ],
+                    [
+                        28.885649,
+                        47.0118439
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 52299547,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "4",
+                    "maxspeed": "50",
+                    "name": "Strada Vadul lui Vod\u0103",
+                    "name:ro": "str. Vadul lui Voda",
+                    "name:ru": "\u0412\u0430\u0434\u0443\u043b-\u043b\u0443\u0439-\u0412\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "ref": "L455"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8841003,
+                        47.031304
+                    ],
+                    [
+                        28.8848261,
+                        47.0315654
+                    ],
+                    [
+                        28.8858602,
+                        47.0319249
+                    ],
+                    [
+                        28.8877396,
+                        47.0325941
+                    ],
+                    [
+                        28.8884616,
+                        47.0328522
+                    ],
+                    [
+                        28.8888027,
+                        47.0329845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 105871008,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "strada Uzinelor",
+                    "name:mo": "strada Uzinelor",
+                    "name:ro": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8869699,
+                        47.00514
+                    ],
+                    [
+                        28.8865945,
+                        47.005366
+                    ],
+                    [
+                        28.8862113,
+                        47.0055635
+                    ],
+                    [
+                        28.885946,
+                        47.0056797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 234334248,
+                "tags": {
+                    "highway": "tertiary_link",
+                    "maxspeed": "50",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8864991,
+                        47.0117927
+                    ],
+                    [
+                        28.8866849,
+                        47.0117831
+                    ],
+                    [
+                        28.886877,
+                        47.0117729
+                    ],
+                    [
+                        28.8870562,
+                        47.0117762
+                    ],
+                    [
+                        28.8872416,
+                        47.0117837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 460758538,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8875769,
+                        47.0046295
+                    ],
+                    [
+                        28.8872865,
+                        47.0048959
+                    ],
+                    [
+                        28.8869699,
+                        47.00514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 461102214,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8873503,
+                        47.0123712
+                    ],
+                    [
+                        28.8873541,
+                        47.0124164
+                    ],
+                    [
+                        28.88737,
+                        47.0125662
+                    ],
+                    [
+                        28.8873782,
+                        47.0126461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 461102215,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8866015,
+                        47.0129703
+                    ],
+                    [
+                        28.8865205,
+                        47.0122878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 584875692,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8975188,
+                        46.997858
+                    ],
+                    [
+                        28.8972247,
+                        46.9979397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 584875697,
+                "tags": {
+                    "highway": "primary",
+                    "junction": "roundabout"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8979119,
+                        46.9975765
+                    ],
+                    [
+                        28.8979516,
+                        46.9975727
+                    ],
+                    [
+                        28.8979913,
+                        46.9975769
+                    ],
+                    [
+                        28.8980274,
+                        46.9975888
+                    ],
+                    [
+                        28.898057,
+                        46.9976073
+                    ],
+                    [
+                        28.8980774,
+                        46.9976309
+                    ],
+                    [
+                        28.8980868,
+                        46.9976575
+                    ],
+                    [
+                        28.8980846,
+                        46.9976848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 655677776,
+                "tags": {
+                    "highway": "primary",
+                    "junction": "roundabout"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8980846,
+                        46.9976848
+                    ],
+                    [
+                        28.8980695,
+                        46.9977121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 655677777,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8980695,
+                        46.9977121
+                    ],
+                    [
+                        28.8981523,
+                        46.9978657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 690500556,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "4",
+                    "lanes:backward": "2",
+                    "lanes:forward": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Vadul lui Vod\u0103",
+                    "name:ro": "str. Vadul lui Voda",
+                    "name:ru": "\u0412\u0430\u0434\u0443\u043b-\u043b\u0443\u0439-\u0412\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "ref": "L455",
+                    "turn:lanes:forward": "left;through|through"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8888027,
+                        47.0329845
+                    ],
+                    [
+                        28.8896417,
+                        47.0332753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 725098494,
+                "tags": {
+                    "highway": "tertiary_link",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8865205,
+                        47.0122878
+                    ],
+                    [
+                        28.8864266,
+                        47.0122085
+                    ],
+                    [
+                        28.8863327,
+                        47.012143
+                    ],
+                    [
+                        28.8861965,
+                        47.0120586
+                    ],
+                    [
+                        28.8860357,
+                        47.0119708
+                    ],
+                    [
+                        28.8859278,
+                        47.0119174
+                    ],
+                    [
+                        28.8858138,
+                        47.0118765
+                    ],
+                    [
+                        28.885649,
+                        47.0118439
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 767983696,
+                "tags": {
+                    "highway": "service",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8869941,
+                        47.0046338
+                    ],
+                    [
+                        28.8875769,
+                        47.0046295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 767983697,
+                "tags": {
+                    "highway": "tertiary",
+                    "lanes": "2",
+                    "name": "Strada Maria Dr\u0103gan",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0440\u0438\u0438 \u0414\u0440\u044d\u0433\u0430\u043d"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.885649,
+                        47.0118439
+                    ],
+                    [
+                        28.8864991,
+                        47.0117927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 767983700,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ro": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8871413,
+                        47.0180351
+                    ],
+                    [
+                        28.8868581,
+                        47.0153851
+                    ],
+                    [
+                        28.8866015,
+                        47.0129703
+                    ]
+                ]
+            }
+        }
+    ]
+}
