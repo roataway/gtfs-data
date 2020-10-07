@@ -22,7 +22,7 @@ def build_stops_txt() -> None:
     d = {}
     written = []
     file = open(GTFS_PATH+STOPS_TXT, "w")
-    file.write("stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station\n")
+    file.write("stop_id,stop_name,stop_lat,stop_lon\n")
     for f in files:
         print(f)
         with open(STATIONS_INFORMATION + f) as json_file:
@@ -48,17 +48,16 @@ def build_stops_txt() -> None:
             if v["properties.tags.name"] and v['properties.id'] != 1558999570 and v['properties.id'] != parent_id:
                 if v['properties.id'] in finish_stop:
                     file.write(str(v["properties.id"]) + ',' + str(v["properties.tags.name"]) + ',' + str(
-                        v["geometry.coordinates"][1]) + "," + str(v["geometry.coordinates"][0]) + ',1,')
+                        v["geometry.coordinates"][1]) + "," + str(v["geometry.coordinates"][0]))
                     file.write("\n")
                 else:
                     file.write(str(v["properties.id"]) + ',' + str(v["properties.tags.name"]) + ',' + str(
-                        v["geometry.coordinates"][1]) + "," + str(v["geometry.coordinates"][0]) + ',3,' + str(
-                        parent_id))
+                        v["geometry.coordinates"][1]) + "," + str(v["geometry.coordinates"][0]))
                     file.write("\n")
             else:
                 if v['properties.id'] == parent_id:
                     file.write(str(v["properties.id"]) + ',' + str(v["properties.tags.name"]) + ',' + str(
-                        v["geometry.coordinates"][1]) + "," + str(v["geometry.coordinates"][0]) + ',1,')
+                        v["geometry.coordinates"][1]) + "," + str(v["geometry.coordinates"][0]) )
                     file.write("\n")
         else:
             continue
@@ -83,7 +82,7 @@ def build_stop_time_txt() -> None:
                 df = pd.json_normalize(data['features'])
                 df1 = df.copy(deep=True)
                 df2 = df.copy(deep=True)
-                t = "10:00"
+                t = "07:00"
                 d = datetime.datetime.strptime(t, '%H:%M')
                 counter = 0
                 order = 1
@@ -127,11 +126,16 @@ def build_trips_and_routes_txt()->None:
     routes = open(GTFS_PATH+ROUTES_TXT, "w")
     trips = open(GTFS_PATH+TRIPS_TXT, "w")
 
-    trips.write("route_id,service_id,trip_id,trip_short_name,shape_id,direction_id\n")
+    trips.write("route_id,service_id,trip_id,trip_short_name,direction_id\n")
     routes.write("route_id,agency_id,route_short_name,route_long_name,route_type\n")
     for index, row in routes_relations.iterrows():
         routes.write(str(row["name_concise"]) + ",RTEC," + str(row["name_concise"]) + "," + str(row["name_long"]) + ",3\n")
-        trips.write(str(row["name_concise"]) + "," + "FULLW," + str(row["name_concise"]) + "," + str(row["name_long"]) + "," + str(row["name_concise"]) + ",0\n")
+        trips.write(str(row["name_concise"]) + "," + "WORKWEEK," + str(row["name_concise"])+"_0" + "," + str(row["name_long"]) +",0\n")
+        trips.write(str(row["name_concise"]) + "," + "WORKWEEK," + str(row["name_concise"])+"_1" + "," + str(row["name_long"]) +",1\n")
+        trips.write(str(row["name_concise"]) + "," + "SATURDAY," + str(row["name_concise"])+"_0" + "," + str(row["name_long"]) +",0\n")
+        trips.write(str(row["name_concise"]) + "," + "SATURDAY," + str(row["name_concise"])+"_1" + "," + str(row["name_long"]) +",1\n")
+        trips.write(str(row["name_concise"]) + "," + "SUNDAY," + str(row["name_concise"])+"_0" + "," + str(row["name_long"]) +",0\n")
+        trips.write(str(row["name_concise"]) + "," + "SUNDAY," + str(row["name_concise"])+"_1" + "," + str(row["name_long"]) +",1\n")
 
     routes.close()
     trips.close()

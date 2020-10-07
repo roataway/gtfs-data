@@ -1,31 +1,181 @@
-route_id,service_id,trip_id,trip_short_name,shape_id,direction_id
-30,FULLW,30,Aeroport - Piața Marii Adunări Naționale,30,0
-32,FULLW,32,str. 31 August 1989 - com. Stăuceni,32,0
-37,FULLW,37,Gara Feroviară - Bubuieci,37,0
-36,FULLW,36,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,36,0
-35,FULLW,35,Durlești - str. V. Alecsandri,35,0
-34,FULLW,34,str. Ciuflea - com. Trușeni,34,0
-31,FULLW,31,str. 31 August 1989 - or. Sângera,31,0
-29,FULLW,29,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',29,0
-27,FULLW,27,str. Ceucari - str. Ion Creangă,27,0
-26,FULLW,26,str. Ceucari - str. Mircea cel Bătrân,26,0
-25,FULLW,25,str. Ceucari - str. 31 august 1989,25,0
-24,FULLW,24,str. Mircea cel Bătrân - str. Miorița,24,0
-23,FULLW,23,str. Mircea cel Bătrân - Parcul 'La Izvor',23,0
-22,FULLW,22,str. Alba-Iulia - bd. Dacia,22,0
-21,FULLW,21,str. Meșterul Manole - str. Alba-Iulia,21,0
-20,FULLW,20,Parcul de troilebuze nr.2 - str. V. Dokuceaev,20,0
-17,FULLW,17,Gara Auto Sud-Vest - Gara Feroviară,17,0
-13,FULLW,13,bd. Mircea cel Bătrân - str. V. Dokuceaev,13,0
-12,FULLW,12,bd. Mircea cel Bătrân - str. A. Mateevici,12,0
-11,FULLW,11,bd. Moscova - Parcul 'La Izvor',11,0
-10,FULLW,10,bd. Moscova - str. Miorița,10,0
-9,FULLW,9,Gara Auto Sud-Vest - Gara Auto Nord,9,0
-8,FULLW,8,bd. Traian - Parcul 'La Izvor',8,0
-7,FULLW,7,str. Uzinelor - str. 31 August 1989,7,0
-5,FULLW,5,Parcul de troleibuze nr.2 - str. Bariera Sculeni,5,0
-4,FULLW,4,bd. Dacia - str. Constituției,4,0
-3,FULLW,3,str. Alba-Iulia - str. Miorița,3,0
-2,FULLW,2,bd. Traian - str. A. Pușkin,2,0
-1,FULLW,1,or. Durlești - str. Sarmizegetusa,1,0
-16,FULLW,16,str. Uzinelor - str. 31 August 1989,16,0
+route_id,service_id,trip_id,trip_short_name,direction_id
+30,WORKWEEK,30_0,Aeroport - Piața Marii Adunări Naționale,0
+30,WORKWEEK,30_1,Aeroport - Piața Marii Adunări Naționale,1
+30,SATURDAY,30_0,Aeroport - Piața Marii Adunări Naționale,0
+30,SATURDAY,30_1,Aeroport - Piața Marii Adunări Naționale,1
+30,SUNDAY,30_0,Aeroport - Piața Marii Adunări Naționale,0
+30,SUNDAY,30_1,Aeroport - Piața Marii Adunări Naționale,1
+32,WORKWEEK,32_0,str. 31 August 1989 - com. Stăuceni,0
+32,WORKWEEK,32_1,str. 31 August 1989 - com. Stăuceni,1
+32,SATURDAY,32_0,str. 31 August 1989 - com. Stăuceni,0
+32,SATURDAY,32_1,str. 31 August 1989 - com. Stăuceni,1
+32,SUNDAY,32_0,str. 31 August 1989 - com. Stăuceni,0
+32,SUNDAY,32_1,str. 31 August 1989 - com. Stăuceni,1
+37,WORKWEEK,37_0,Gara Feroviară - Bubuieci,0
+37,WORKWEEK,37_1,Gara Feroviară - Bubuieci,1
+37,SATURDAY,37_0,Gara Feroviară - Bubuieci,0
+37,SATURDAY,37_1,Gara Feroviară - Bubuieci,1
+37,SUNDAY,37_0,Gara Feroviară - Bubuieci,0
+37,SUNDAY,37_1,Gara Feroviară - Bubuieci,1
+36,WORKWEEK,36_0,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,0
+36,WORKWEEK,36_1,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,1
+36,SATURDAY,36_0,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,0
+36,SATURDAY,36_1,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,1
+36,SUNDAY,36_0,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,0
+36,SUNDAY,36_1,bd. Ștefan cel Mare și Sfânt - or. Ialoveni,1
+35,WORKWEEK,35_0,Durlești - str. V. Alecsandri,0
+35,WORKWEEK,35_1,Durlești - str. V. Alecsandri,1
+35,SATURDAY,35_0,Durlești - str. V. Alecsandri,0
+35,SATURDAY,35_1,Durlești - str. V. Alecsandri,1
+35,SUNDAY,35_0,Durlești - str. V. Alecsandri,0
+35,SUNDAY,35_1,Durlești - str. V. Alecsandri,1
+34,WORKWEEK,34_0,str. Ciuflea - com. Trușeni,0
+34,WORKWEEK,34_1,str. Ciuflea - com. Trușeni,1
+34,SATURDAY,34_0,str. Ciuflea - com. Trușeni,0
+34,SATURDAY,34_1,str. Ciuflea - com. Trușeni,1
+34,SUNDAY,34_0,str. Ciuflea - com. Trușeni,0
+34,SUNDAY,34_1,str. Ciuflea - com. Trușeni,1
+31,WORKWEEK,31_0,str. 31 August 1989 - or. Sângera,0
+31,WORKWEEK,31_1,str. 31 August 1989 - or. Sângera,1
+31,SATURDAY,31_0,str. 31 August 1989 - or. Sângera,0
+31,SATURDAY,31_1,str. 31 August 1989 - or. Sângera,1
+31,SUNDAY,31_0,str. 31 August 1989 - or. Sângera,0
+31,SUNDAY,31_1,str. 31 August 1989 - or. Sângera,1
+29,WORKWEEK,29_0,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',0
+29,WORKWEEK,29_1,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',1
+29,SATURDAY,29_0,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',0
+29,SATURDAY,29_1,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',1
+29,SUNDAY,29_0,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',0
+29,SUNDAY,29_1,Universitatea Agrară - Grădina publică 'Ștefan cel Mare',1
+27,WORKWEEK,27_0,str. Ceucari - str. Ion Creangă,0
+27,WORKWEEK,27_1,str. Ceucari - str. Ion Creangă,1
+27,SATURDAY,27_0,str. Ceucari - str. Ion Creangă,0
+27,SATURDAY,27_1,str. Ceucari - str. Ion Creangă,1
+27,SUNDAY,27_0,str. Ceucari - str. Ion Creangă,0
+27,SUNDAY,27_1,str. Ceucari - str. Ion Creangă,1
+26,WORKWEEK,26_0,str. Ceucari - str. Mircea cel Bătrân,0
+26,WORKWEEK,26_1,str. Ceucari - str. Mircea cel Bătrân,1
+26,SATURDAY,26_0,str. Ceucari - str. Mircea cel Bătrân,0
+26,SATURDAY,26_1,str. Ceucari - str. Mircea cel Bătrân,1
+26,SUNDAY,26_0,str. Ceucari - str. Mircea cel Bătrân,0
+26,SUNDAY,26_1,str. Ceucari - str. Mircea cel Bătrân,1
+25,WORKWEEK,25_0,str. Ceucari - str. 31 august 1989,0
+25,WORKWEEK,25_1,str. Ceucari - str. 31 august 1989,1
+25,SATURDAY,25_0,str. Ceucari - str. 31 august 1989,0
+25,SATURDAY,25_1,str. Ceucari - str. 31 august 1989,1
+25,SUNDAY,25_0,str. Ceucari - str. 31 august 1989,0
+25,SUNDAY,25_1,str. Ceucari - str. 31 august 1989,1
+24,WORKWEEK,24_0,str. Mircea cel Bătrân - str. Miorița,0
+24,WORKWEEK,24_1,str. Mircea cel Bătrân - str. Miorița,1
+24,SATURDAY,24_0,str. Mircea cel Bătrân - str. Miorița,0
+24,SATURDAY,24_1,str. Mircea cel Bătrân - str. Miorița,1
+24,SUNDAY,24_0,str. Mircea cel Bătrân - str. Miorița,0
+24,SUNDAY,24_1,str. Mircea cel Bătrân - str. Miorița,1
+23,WORKWEEK,23_0,str. Mircea cel Bătrân - Parcul 'La Izvor',0
+23,WORKWEEK,23_1,str. Mircea cel Bătrân - Parcul 'La Izvor',1
+23,SATURDAY,23_0,str. Mircea cel Bătrân - Parcul 'La Izvor',0
+23,SATURDAY,23_1,str. Mircea cel Bătrân - Parcul 'La Izvor',1
+23,SUNDAY,23_0,str. Mircea cel Bătrân - Parcul 'La Izvor',0
+23,SUNDAY,23_1,str. Mircea cel Bătrân - Parcul 'La Izvor',1
+22,WORKWEEK,22_0,str. Alba-Iulia - bd. Dacia,0
+22,WORKWEEK,22_1,str. Alba-Iulia - bd. Dacia,1
+22,SATURDAY,22_0,str. Alba-Iulia - bd. Dacia,0
+22,SATURDAY,22_1,str. Alba-Iulia - bd. Dacia,1
+22,SUNDAY,22_0,str. Alba-Iulia - bd. Dacia,0
+22,SUNDAY,22_1,str. Alba-Iulia - bd. Dacia,1
+21,WORKWEEK,21_0,str. Meșterul Manole - str. Alba-Iulia,0
+21,WORKWEEK,21_1,str. Meșterul Manole - str. Alba-Iulia,1
+21,SATURDAY,21_0,str. Meșterul Manole - str. Alba-Iulia,0
+21,SATURDAY,21_1,str. Meșterul Manole - str. Alba-Iulia,1
+21,SUNDAY,21_0,str. Meșterul Manole - str. Alba-Iulia,0
+21,SUNDAY,21_1,str. Meșterul Manole - str. Alba-Iulia,1
+20,WORKWEEK,20_0,Parcul de troilebuze nr.2 - str. V. Dokuceaev,0
+20,WORKWEEK,20_1,Parcul de troilebuze nr.2 - str. V. Dokuceaev,1
+20,SATURDAY,20_0,Parcul de troilebuze nr.2 - str. V. Dokuceaev,0
+20,SATURDAY,20_1,Parcul de troilebuze nr.2 - str. V. Dokuceaev,1
+20,SUNDAY,20_0,Parcul de troilebuze nr.2 - str. V. Dokuceaev,0
+20,SUNDAY,20_1,Parcul de troilebuze nr.2 - str. V. Dokuceaev,1
+17,WORKWEEK,17_0,Gara Auto Sud-Vest - Gara Feroviară,0
+17,WORKWEEK,17_1,Gara Auto Sud-Vest - Gara Feroviară,1
+17,SATURDAY,17_0,Gara Auto Sud-Vest - Gara Feroviară,0
+17,SATURDAY,17_1,Gara Auto Sud-Vest - Gara Feroviară,1
+17,SUNDAY,17_0,Gara Auto Sud-Vest - Gara Feroviară,0
+17,SUNDAY,17_1,Gara Auto Sud-Vest - Gara Feroviară,1
+13,WORKWEEK,13_0,bd. Mircea cel Bătrân - str. V. Dokuceaev,0
+13,WORKWEEK,13_1,bd. Mircea cel Bătrân - str. V. Dokuceaev,1
+13,SATURDAY,13_0,bd. Mircea cel Bătrân - str. V. Dokuceaev,0
+13,SATURDAY,13_1,bd. Mircea cel Bătrân - str. V. Dokuceaev,1
+13,SUNDAY,13_0,bd. Mircea cel Bătrân - str. V. Dokuceaev,0
+13,SUNDAY,13_1,bd. Mircea cel Bătrân - str. V. Dokuceaev,1
+12,WORKWEEK,12_0,bd. Mircea cel Bătrân - str. A. Mateevici,0
+12,WORKWEEK,12_1,bd. Mircea cel Bătrân - str. A. Mateevici,1
+12,SATURDAY,12_0,bd. Mircea cel Bătrân - str. A. Mateevici,0
+12,SATURDAY,12_1,bd. Mircea cel Bătrân - str. A. Mateevici,1
+12,SUNDAY,12_0,bd. Mircea cel Bătrân - str. A. Mateevici,0
+12,SUNDAY,12_1,bd. Mircea cel Bătrân - str. A. Mateevici,1
+11,WORKWEEK,11_0,bd. Moscova - Parcul 'La Izvor',0
+11,WORKWEEK,11_1,bd. Moscova - Parcul 'La Izvor',1
+11,SATURDAY,11_0,bd. Moscova - Parcul 'La Izvor',0
+11,SATURDAY,11_1,bd. Moscova - Parcul 'La Izvor',1
+11,SUNDAY,11_0,bd. Moscova - Parcul 'La Izvor',0
+11,SUNDAY,11_1,bd. Moscova - Parcul 'La Izvor',1
+10,WORKWEEK,10_0,bd. Moscova - str. Miorița,0
+10,WORKWEEK,10_1,bd. Moscova - str. Miorița,1
+10,SATURDAY,10_0,bd. Moscova - str. Miorița,0
+10,SATURDAY,10_1,bd. Moscova - str. Miorița,1
+10,SUNDAY,10_0,bd. Moscova - str. Miorița,0
+10,SUNDAY,10_1,bd. Moscova - str. Miorița,1
+9,WORKWEEK,9_0,Gara Auto Sud-Vest - Gara Auto Nord,0
+9,WORKWEEK,9_1,Gara Auto Sud-Vest - Gara Auto Nord,1
+9,SATURDAY,9_0,Gara Auto Sud-Vest - Gara Auto Nord,0
+9,SATURDAY,9_1,Gara Auto Sud-Vest - Gara Auto Nord,1
+9,SUNDAY,9_0,Gara Auto Sud-Vest - Gara Auto Nord,0
+9,SUNDAY,9_1,Gara Auto Sud-Vest - Gara Auto Nord,1
+8,WORKWEEK,8_0,bd. Traian - Parcul 'La Izvor',0
+8,WORKWEEK,8_1,bd. Traian - Parcul 'La Izvor',1
+8,SATURDAY,8_0,bd. Traian - Parcul 'La Izvor',0
+8,SATURDAY,8_1,bd. Traian - Parcul 'La Izvor',1
+8,SUNDAY,8_0,bd. Traian - Parcul 'La Izvor',0
+8,SUNDAY,8_1,bd. Traian - Parcul 'La Izvor',1
+7,WORKWEEK,7_0,str. Uzinelor - str. 31 August 1989,0
+7,WORKWEEK,7_1,str. Uzinelor - str. 31 August 1989,1
+7,SATURDAY,7_0,str. Uzinelor - str. 31 August 1989,0
+7,SATURDAY,7_1,str. Uzinelor - str. 31 August 1989,1
+7,SUNDAY,7_0,str. Uzinelor - str. 31 August 1989,0
+7,SUNDAY,7_1,str. Uzinelor - str. 31 August 1989,1
+5,WORKWEEK,5_0,Parcul de troleibuze nr.2 - str. Bariera Sculeni,0
+5,WORKWEEK,5_1,Parcul de troleibuze nr.2 - str. Bariera Sculeni,1
+5,SATURDAY,5_0,Parcul de troleibuze nr.2 - str. Bariera Sculeni,0
+5,SATURDAY,5_1,Parcul de troleibuze nr.2 - str. Bariera Sculeni,1
+5,SUNDAY,5_0,Parcul de troleibuze nr.2 - str. Bariera Sculeni,0
+5,SUNDAY,5_1,Parcul de troleibuze nr.2 - str. Bariera Sculeni,1
+4,WORKWEEK,4_0,bd. Dacia - str. Constituției,0
+4,WORKWEEK,4_1,bd. Dacia - str. Constituției,1
+4,SATURDAY,4_0,bd. Dacia - str. Constituției,0
+4,SATURDAY,4_1,bd. Dacia - str. Constituției,1
+4,SUNDAY,4_0,bd. Dacia - str. Constituției,0
+4,SUNDAY,4_1,bd. Dacia - str. Constituției,1
+3,WORKWEEK,3_0,str. Alba-Iulia - str. Miorița,0
+3,WORKWEEK,3_1,str. Alba-Iulia - str. Miorița,1
+3,SATURDAY,3_0,str. Alba-Iulia - str. Miorița,0
+3,SATURDAY,3_1,str. Alba-Iulia - str. Miorița,1
+3,SUNDAY,3_0,str. Alba-Iulia - str. Miorița,0
+3,SUNDAY,3_1,str. Alba-Iulia - str. Miorița,1
+2,WORKWEEK,2_0,bd. Traian - str. A. Pușkin,0
+2,WORKWEEK,2_1,bd. Traian - str. A. Pușkin,1
+2,SATURDAY,2_0,bd. Traian - str. A. Pușkin,0
+2,SATURDAY,2_1,bd. Traian - str. A. Pușkin,1
+2,SUNDAY,2_0,bd. Traian - str. A. Pușkin,0
+2,SUNDAY,2_1,bd. Traian - str. A. Pușkin,1
+1,WORKWEEK,1_0,or. Durlești - str. Sarmizegetusa,0
+1,WORKWEEK,1_1,or. Durlești - str. Sarmizegetusa,1
+1,SATURDAY,1_0,or. Durlești - str. Sarmizegetusa,0
+1,SATURDAY,1_1,or. Durlești - str. Sarmizegetusa,1
+1,SUNDAY,1_0,or. Durlești - str. Sarmizegetusa,0
+1,SUNDAY,1_1,or. Durlești - str. Sarmizegetusa,1
+16,WORKWEEK,16_0,str. Uzinelor - str. 31 August 1989,0
+16,WORKWEEK,16_1,str. Uzinelor - str. 31 August 1989,1
+16,SATURDAY,16_0,str. Uzinelor - str. 31 August 1989,0
+16,SATURDAY,16_1,str. Uzinelor - str. 31 August 1989,1
+16,SUNDAY,16_0,str. Uzinelor - str. 31 August 1989,0
+16,SUNDAY,16_1,str. Uzinelor - str. 31 August 1989,1
