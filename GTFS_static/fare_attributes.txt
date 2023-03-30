@@ -1,2 +1,3 @@
-fare_id,price,currency_type,payment_method,transfers,transfer_duration
-p,2.00,MDL,0,0,
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+p,6.0,MDL,0,0,RTEC,0
+t,6.0,MDL,0,0,PUA,0

@@ -1,2 +1,3 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-RTEC,Regia Transport Electric Chișinău,https://www.rtec.md,Europe/Chisinau,ro,022-204-205
+agency_id,agency_name,agency_lang,agency_timezone,agency_url,agency_phone,agency_email,agency_fare_url
+PUA,I.M. Parcul Urban de Autobuze,ro,Europe/Chisinau,https://www.autourban.md/,022-556-030,,
+RTEC,Regia Transport Electric Chișinău,ro,Europe/Chisinau,https://www.rtec.md,022-204-205,,
